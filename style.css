@@ -155,3 +155,47 @@
     font-weight: bold;
     line-height: 0.9rem;
 }
+
+
+/* -------------------- Illustration ---------------------------- */
+
+.illustration {
+    margin: 2% auto;
+    width: 75%;
+    text-align: left;
+}
+
+.illustration-summary {
+    color: #656665;
+    margin-bottom: 5px;
+}
+
+.article-illustration {
+    display: grid;
+    grid-template-columns: repeat(4, 25%);
+    grid-template-rows: 25% 20% 28% 20%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url("./img/inflation-illustration-image.png");
+    margin: auto;
+    height: 500px;
+}
+
+.illustration-item {
+    grid-row: 2;
+}
+
+.illustration-item-b {
+    grid-row: 4;
+}
+
+.illustration hr {
+    width: 15%;
+    margin-top: 24px;
+}
+
+.illustration-authors {
+    padding: 10px 0px;
+    text-transform: uppercase;
+    color: #656665;
+}
