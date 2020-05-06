@@ -99,7 +99,7 @@
 
 /* -------------------- Main Article ---------------------------- */
 
-.main-article a {
+.main-article-link {
     color: #000;
     text-decoration: none;
     font-weight: bold;
@@ -114,8 +114,44 @@
     line-height: 1.5rem;
 }
 
-.article-links {}
+.article-links {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 2% 0;
+}
+
+.article-social {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    width: 30%;
+}
 
 .content {
     margin-top: 5%;
+    color: black;
+}
+
+.ny-ad-section {
+    margin: 2% auto;
+    width: 10%;
+    color: lightgrey;
+}
+
+.ad-text {
+    margin: auto;
+    text-align: center;
+    font-size: 1rem;
+}
+
+.ad-button {
+    display: block;
+    margin: auto;
+    text-decoration: none;
+    color: #567b95;
+    text-align: center;
+    font-size: 1rem;
+    font-weight: bold;
+    line-height: 0.9rem;
 }
