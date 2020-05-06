@@ -95,3 +95,27 @@
     color: #555;
     font-size: smaller;
 }
+
+
+/* -------------------- Main Article ---------------------------- */
+
+.main-article a {
+    color: #000;
+    text-decoration: none;
+    font-weight: bold;
+    margin-bottom: 5%;
+}
+
+.main-article {
+    width: 40%;
+    margin: 2% auto;
+    font-size: 1.2rem;
+    color: #888;
+    line-height: 1.5rem;
+}
+
+.article-links {}
+
+.content {
+    margin-top: 5%;
+}
