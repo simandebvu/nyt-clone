@@ -206,3 +206,44 @@
 .article-image {
     margin-bottom: 3%;
 }
+
+.article-footer {
+    color: #666;
+    font-size: 0.8rem;
+}
+
+.article-links {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.footer-button {
+    background-color: #567b95;
+    padding: 11px 12px 8px;
+    border-radius: 5px;
+    color: white;
+    width: 55%;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+.footer-button:hover {
+    background-color: #2f6991;
+}
+
+.footer-social {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 20%;
+}
+
+.footer-social i:hover {
+    background-color: white;
+    border-color: #666;
+    border-style: solid;
+    border-width: 2px;
+    border-radius: 100%;
+    padding: 3%
+}
