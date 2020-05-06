@@ -1,0 +1,59 @@
+/* Simple CSS Reset */
+* {
+  margin: 0;
+  padding: 0;
+  font-family: inherit;
+}
+
+/* -------------------- Header ---------------------------- */
+.main-nav {
+  position: fixed;
+  height: 40px;
+  width: 100%;
+  padding: 4px 15px 2px;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  background-color: white;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.nav-logo {
+  width: 20%;
+}
+
+.left-nav-bar {
+  text-transform: uppercase;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 250px;
+}
+
+.nav-link {
+  text-decoration: none;
+  font-weight: bold;
+  color: black;
+}
+
+.right-nav-bar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.nav-subscribe-button {
+  background-color: #567b95;
+  color: white;
+  font-weight: bold;
+  padding: 11px 12px 8px;
+  border-radius: 5px;
+}
+
+.nav-account-button {
+  background-color: white;
+  border: none;
+}
