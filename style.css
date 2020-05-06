@@ -173,12 +173,10 @@
 .article-illustration {
     display: grid;
     grid-template-columns: repeat(4, 25%);
-    grid-template-rows: 25% 20% 28% 20%;
+    grid-template-rows: 156px 163px 161px 150px;
     background-repeat: no-repeat;
     background-size: cover;
     background-image: url("./img/inflation-illustration-image.png");
-    margin: auto;
-    height: 500px;
 }
 
 .illustration-item {
@@ -198,4 +196,13 @@
     padding: 10px 0px;
     text-transform: uppercase;
     color: #656665;
+}
+
+.article-image  img{
+    width: 120%;
+    margin-left: -60px;
+}
+
+.article-image {
+    margin-bottom: 3%;
 }
