@@ -58,6 +58,7 @@
     border-radius: 5px;
 }
 
+
 /* -------------------- Main Article ---------------------------- */
 
 .article-header {
@@ -188,11 +189,13 @@
 .article-illustration {
     display: grid;
     grid-template-columns: repeat(4, 23%);
-    grid-template-rows: 136px 163px 97px 200px;
+    grid-template-rows: 136px 163px 117px 200px;
     background-repeat: no-repeat;
+    width: 945px;
+    height: 576px;
     background-size: cover;
     background-image: url("./img/inflation-illustration-image.png");
-    gap: 2.5%;
+    column-gap: 20px;
 }
 
 .article-illustration strong {
@@ -427,6 +430,7 @@
 .subscribe hr {
     margin-top: 5px;
 }
+
 
 /* -------------- Footer --------------- */
 
