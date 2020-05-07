@@ -380,7 +380,7 @@
 }
 
 .subscribe {
-    border-left: 1px solid #E2E2E2;
+    border-left: 1px solid #e2e2e2;
     padding-left: 10px;
 }
 
@@ -403,5 +403,29 @@
     margin-top: 5px;
 }
 
-
 /* -------------- Footer --------------- */
+
+.footer {
+    margin: 2% auto;
+    width: 80%
+}
+
+.footer-links {
+    display: flex;
+    margin: 1% auto;
+    width: 90%;
+    align-items: center;
+    justify-content: space-evenly;
+    list-style-type: none;
+    white-space: nowrap;
+    font-size: 0.8rem;
+}
+
+.footer-links a {
+    color: #666;
+    text-decoration: none;
+}
+
+.footer-links a:hover {
+    text-decoration: underline;
+}
