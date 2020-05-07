@@ -11,7 +11,5 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Added
 - Basic HTML Structure
 - Changed Nav bar style
-<<<<<<< Updated upstream
-=======
 - Added CSS
->>>>>>> Stashed changes
+
