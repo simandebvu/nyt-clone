@@ -1,15 +1,15 @@
 # New York Times Clone
 
-> Cloning (this)[https://www.nytimes.com/2014/03/18/science/space/detection-of-waves-in-space-buttresses-landmark-theory-of-big-bang.html?_r=0] page from New York Times as part of Microverse Main Curriculum to learn CSS and HTML.
+> Cloning [this](https://www.nytimes.com/2014/03/18/science/space/detection-of-waves-in-space-buttresses-landmark-theory-of-big-bang.html?_r=0) page from New York Times as part of Microverse Main Curriculum to learn CSS and HTML.
 
-![screenshot](./app_screenshot.png)
+![screenshot](img/app_screenshot.png)
 
 Additional description about the project and its features.
 
 ## Built With
 
 - CSS,
-- HTML,
+- HTML
 
 ## Live Demo
 
@@ -40,17 +40,17 @@ To get a local copy up and running follow these simple example steps.
 
 ## Authors
 
-👤 **Author1**
+👤 **Shingirayi Mandebvu**
 
-- Github: [@githubhandle](https://github.com/simandebvu)
-- Twitter: [@twitterhandle](https://twitter.com/simandebvu)
-- Linkedin: [linkedin](https://linkedin.com/simandebvu)
+- Github: [@simandebvu](https://github.com/simandebvu)
+- Twitter: [@simandebvu](https://twitter.com/simandebvu)
+- Linkedin: [simandebvu](https://linkedin.com/simandebvu)
 
-👤 **Author2**
+👤 **Santiago Rodriguez Bermudez**
 
-- Github: [@githubhandle](https://github.com/santiagorodriguezbermudez)
-- Twitter: [@twitterhandle](https://twitter.com/srba87)
-- Linkedin: [linkedin](https://www.linkedin.com/in/srba87/)
+- Github: [@santiagorodriguezbermudez](https://github.com/santiagorodriguezbermudez)
+- Twitter: [@srba87](https://twitter.com/srba87)
+- Linkedin: [srba87](https://www.linkedin.com/in/srba87/)
 
 
 ## 🤝 Contributing
