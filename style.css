@@ -248,6 +248,7 @@
     padding: 3%
 }
 
+
 /* -------------- Content Section --------------- */
 
 .content-recommendations {
@@ -317,15 +318,17 @@
     margin: 10% auto;
 }
 
+
 /* -------------- Site Links --------------- */
 
 .site-links {
-    background-color: white;   
+    background-color: white;
     margin: 0 auto;
-    width: 70%;
+    width: 80%;
 }
 
 .hr-fancy {
+    margin-top: 50px;
     border-bottom: 1px solid #e2e2e2;
     border-top: 2px solid #e2e2e2;
     height: 1px;
@@ -349,9 +352,11 @@
 }
 
 .grid-with-links {
+    margin-top: 10px;
+    margin-bottom: 25px;
     display: grid;
+    gap: 5px;
     grid-template-columns: repeat(6, 1fr);
-
 }
 
 .grid-links-child-container {
@@ -359,12 +364,44 @@
     flex-direction: column;
 }
 
-.grid-links-child-container a {
+.normal-footer-link {
     text-decoration: none;
+    color: #000;
+    margin-top: 5px;
+    font-size: 1rem;
 }
 
+.normal-footer-link:hover {
+    text-decoration: underline;
+}
 
+.grid-links-child-container h4 {
+    text-transform: uppercase;
+}
 
+.subscribe {
+    border-left: 1px solid #E2E2E2;
+    padding-left: 10px;
+}
+
+.bold-link {
+    font-weight: bold;
+    white-space: nowrap;
+}
+
+.bold-link i {
+    margin-right: 5px;
+    width: 15px;
+}
+
+.other-link {
+    font-size: 0.8rem;
+    margin-top: 10px;
+}
+
+.subscribe hr {
+    margin-top: 5px;
+}
 
 
 /* -------------- Footer --------------- */
