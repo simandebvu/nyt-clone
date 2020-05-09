@@ -1,20 +1,19 @@
-# Project Name
+# New York Times Clone
 
-> One paragraph statement about the project.
+> Cloning [this](https://www.nytimes.com/2014/03/18/science/space/detection-of-waves-in-space-buttresses-landmark-theory-of-big-bang.html?_r=0) page from New York Times as part of Microverse Main Curriculum to learn CSS and HTML.
 
-![screenshot](./app_screenshot.png)
+![screenshot](img/app_screenshot.png)
 
 Additional description about the project and its features.
 
 ## Built With
 
-- Major languages,
-- frameworks,
-- technologies used
+- CSS,
+- HTML
 
 ## Live Demo
 
-[Live Demo Link](https://livedemo.com)
+[Live Demo Link](https://raw.githack.com/simandebvu/nyt-clone/develop/index.html)
 
 
 ## Getting Started
@@ -22,36 +21,20 @@ Additional description about the project and its features.
 **This is an example of how you may give instructions on setting up your project locally.**
 **Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
 
-
-To get a local copy up and running follow these simple example steps.
-
-### Prerequisites
-
-### Setup
-
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
-
-
-
 ## Authors
 
-👤 **Author1**
+👤 **Shingirayi Mandebvu**
 
-- Github: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- Linkedin: [linkedin](https://linkedin.com/linkedinhandle)
+- Github: [@simandebvu](https://github.com/simandebvu)
+- Twitter: [@simandebvu](https://twitter.com/simandebvu)
+- Linkedin: [simandebvu](https://linkedin.com/simandebvu)
 
-👤 **Author2**
+👤 **Santiago Rodriguez Bermudez**
 
-- Github: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- Linkedin: [linkedin](https://linkedin.com/linkedinhandle)
+- Github: [@santiagorodriguezbermudez](https://github.com/santiagorodriguezbermudez)
+- Twitter: [@srba87](https://twitter.com/srba87)
+- Linkedin: [srba87](https://www.linkedin.com/in/srba87/)
+
 
 ## 🤝 Contributing
 
